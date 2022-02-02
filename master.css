@@ -3,7 +3,7 @@ html, body {
   font-family: 'Poppins', sans-serif;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 
 .container {
   padding: 4rem;
@@ -12,6 +12,7 @@ html, body {
 }
 
 .qr {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
   position: relative;
   display: flex;
   flex-direction: column;
